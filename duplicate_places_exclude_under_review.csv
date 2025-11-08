@@ -1,0 +1,74 @@
+"id","userId","status","name","description","categoryId","mapImageIds","mapImageCoverId","mapArImageCoverId","latitude","longitude","address","openingHours","website","phone","price","rating","views","like","dislike","saved","createdAt","updatedAt"
+"545f3d78-556b-4f87-947f-8c540a2ec48c","0a484aff-e8c6-4629-9963-07c9ae3cdf4b","PUBLISHED","Kolam Renang Tirto Asri","Kolam Renang Tirto Asri adalah kolam renang umum yang terletak di Jl. Raya Wates No.16, Wonodadi, Kec. Gading Rejo, Kabupaten Pringsewu, Lampung 35372, Indonesia. Kolam renang ini memiliki fasilitas yang lengkap, seperti kolam renang dewasa, kolam renang anak-anak, kolam renang air hangat, dan seluncuran air. Kolam Renang Tirto Asri juga memiliki area piknik dan tempat makan.
+
+Fasilitas:
+Kolam renang dewasa
+Kolam renang anak-anak
+Kolam renang air hangat
+Seluncuran air
+Area piknik
+Tempat makan
+
+Aktivitas yang dapat dilakukan:
+Berenang
+Berjemur di pinggir kolam
+Bermain di seluncuran air
+Piknik
+Makan dan minum di tempat makan
+
+Jam Operasional:
+Senin-Minggu: 08.00-17.00
+
+Tips:
+Datanglah lebih awal untuk menghindari antrian panjang.
+Bawalah pakaian renang dan handuk.
+Gunakan tabir surya untuk melindungi kulit Anda dari sinar matahari.
+Nikmatilah waktu Anda di Kolam Renang Tirto Asri!","78c80a91-ae92-4127-89e6-d56c1c1c470d","[""af67f3b5-cfc4-41c4-a8aa-860bd62144e6"", ""6f91a255-b124-4dc0-8e37-81cc206a5420"", ""55622132-59ad-4ef0-93a0-da34448ddd04"", ""ead07a81-289b-48ec-84e4-4848189bff1d"", ""f69ca86a-b912-4772-ba56-f74712a1df71""]","6f91a255-b124-4dc0-8e37-81cc206a5420","f69ca86a-b912-4772-ba56-f74712a1df71","-5.369777159908486","105.0481115307475","Jl. Raya Wates No.16, Wonodadi, Kec. Gading Rejo, Kabupaten Pringsewu, Lampung 35372","[{""closed"": false, ""dayIndex"": 0, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 1, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 2, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 3, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 4, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 5, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 6, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}]",NULL,"-","20000","5","1","0","0","0","2024-10-04 17:35:18.141","2025-08-10 14:43:17.691"
+"a1a8e448-844e-4d7c-a43b-9cd2b48740f4","2cfd292d-9c04-4a64-8f6f-9d1eb157af0a","PUBLISHED","Kolam Renang Tirto Asri","Kolam Renang Tirto Asri adalah tempat rekreasi keluarga yang menyenangkan di Pringsewu. Nikmati kesegaran air, berbagai wahana, dan suasana yang nyaman. Cocok untuk menghabiskan waktu bersama keluarga dan teman.
+
+Fasilitas:
+Kolam renang dewasa dan anak
+Seluncuran
+Gazebo
+Area bermain anak
+
+Aktivitas:
+Berenang
+Bermain seluncuran
+Piknik
+Bermain di area bermain
+
+Jam Operasional:
+Biasanya buka setiap hari, namun sebaiknya konfirmasi terlebih dahulu.","78c80a91-ae92-4127-89e6-d56c1c1c470d","[""39ad6f81-b3d8-44c4-b4db-7d078a47c18f"", ""82ff86b3-d2b9-455b-86a9-3fe38078c4a0"", ""5eb4d6b0-beb3-4160-8825-8167779a41d8"", ""ec945274-03fe-4704-b56b-d63a04c46903""]","ec945274-03fe-4704-b56b-d63a04c46903","e7f16913-0ac5-4b5d-b1a1-b68bb0a36055","-5.367688129878004","105.0480559699016","Jl. Raya Wates No.16, Wonodadi, Kec. Gading Rejo, Kabupaten Pringsewu, Lampung 35372","[{""closed"": false, ""dayIndex"": 0, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 1, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 2, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 3, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 4, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 5, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 6, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}]",NULL,"-","15000","2","2","0","0","0","2024-10-02 02:50:56.830","2025-08-13 10:15:44.117"
+"5bad3a44-569b-4041-97ef-90456337e4de","2178a22c-faa6-4117-a31e-be606755596e","PUBLISHED","Pantai Gigi Hiu","Pantai Gigi Hiu merupakan salah satu destinasi wisata alam yang memukau di Provinsi Lampung, tepatnya berada di Kecamatan Kelumbayan, Kabupaten Tanggamus. Pantai ini dikenal karena keunikan formasi batu karangnya yang runcing dan berjejer menyerupai deretan gigi ikan hiu, sehingga dinamakan “Gigi Hiu”. Pemandangan yang tersaji di pantai ini sangat eksotis dan menawan, menjadikannya salah satu lokasi favorit bagi para fotografer dan pecinta alam. Meskipun tidak cocok untuk berenang karena ombaknya yang cukup besar dan bebatuannya yang tajam, Pantai Gigi Hiu menawarkan pesona keindahan alam yang luar biasa, terutama saat matahari terbit dan terbenam. Cahaya keemasan yang memantul di antara bebatuan menciptakan panorama yang sangat indah dan dramatis, sementara di malam hari, langit cerah kadang memperlihatkan hamparan bintang dan Milky Way yang menakjubkan.
+
+Untuk mencapai Pantai Gigi Hiu, pengunjung perlu menempuh perjalanan sekitar tiga hingga lima jam dari Kota Bandar Lampung. Rute yang paling umum ditempuh adalah melalui Teluk Kiluan, lalu melanjutkan perjalanan sejauh lima kilometer melewati jalan menanjak dan berbatu. Akses menuju pantai ini memang cukup menantang, terutama saat musim hujan karena jalannya bisa menjadi licin dan sulit dilalui kendaraan biasa. Sebagian wisatawan memilih memarkir kendaraan mereka di Desa Kelumbayan atau Teluk Kiluan, kemudian melanjutkan perjalanan dengan ojek atau berjalan kaki sejauh beberapa ratus meter menuju lokasi. Walau perjalanan menuju pantai ini cukup melelahkan, keindahan alam yang menanti di ujung perjalanan benar-benar sepadan.","8f6ba969-d3ab-4d75-b8b9-dbc4912f92b2","[""6f7466e0-d449-43e9-8de1-6581905bb9e4"", ""d9e37d53-16cc-4084-bda7-727494e00f72"", ""f9ac94ab-1429-4a24-b884-3a9b4d12ceb1"", ""0586a19f-7632-4f0e-a8e0-947f7a87df6a"", ""c800eaa8-e3d3-4285-ac7a-f0efa289f646""]","6f7466e0-d449-43e9-8de1-6581905bb9e4","c800eaa8-e3d3-4285-ac7a-f0efa289f646","-5.755039357416016","105.057449916345","Pekon Susuk, Kelumbayan, Tanggamus Regency, Lampung","[{""closed"": false, ""dayIndex"": 0, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 1, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 2, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 3, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 4, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 5, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 6, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}]",NULL,"-","20000","0","0","0","0","0","2025-10-16 12:21:30.482","2025-10-16 12:21:30.482"
+"83ca982c-825c-49da-ab16-13038535cbb4","93e42e56-7795-4896-b434-07d4e9651243","PUBLISHED","Pantai Gigi Hiu","Pantai Gigi Hiu, yang terletak di Pekon Susuk, Kelumbayan, Kabupaten Tanggamus, Lampung, merupakan destinasi wisata pantai yang unik dan memukau. Pantai ini terkenal dengan formasi batuan karangnya yang menyerupai gigi hiu, sehingga menjadikannya spot foto yang sangat instagramable. Lokasinya yang tersembunyi dan akses yang menantang membuat pantai ini menjadi permata tersembunyi yang masih sangat alami. Keasliannya yang masih terjaga menjadi daya tarik tersendiri bagi para pencinta wisata petualangan. Meskipun belum ada fasilitas lengkap, namun potensi wisata pantai ini sangat besar.","8f6ba969-d3ab-4d75-b8b9-dbc4912f92b2","[""ed0e0b7e-c79b-479b-94a3-b7a79a6cbe9e"", ""91338311-0288-4160-9323-84df3b476a64"", ""1cf9a7c0-48ae-42e6-813c-74399726d1f2"", ""089094a7-742d-4c0a-be2d-5a25c9c886f7"", ""07a2b80c-9acc-4a63-8367-11265f8bc200"", ""2fb243a6-9465-4168-938c-3c58b2a2291f"", ""dd7e8296-0a82-4604-aa37-e664dfa2dafa""]","ed0e0b7e-c79b-479b-94a3-b7a79a6cbe9e","dd7e8296-0a82-4604-aa37-e664dfa2dafa","-5.755324309867507","105.0576008765972","Pekon Susuk, Kelumbayan, Tanggamus Regency, Lampung","[{""closed"": false, ""dayIndex"": 0, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 1, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 2, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 3, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 4, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 5, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 6, ""closingHours"": ""17:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}]",NULL,"-","0","4.647058823529412","60","2","0","2","2024-10-02 16:21:48.695","2025-10-31 12:51:28.432"
+"c0603b1f-2c6f-43a5-9f21-6b75fe24709c","2cfd292d-9c04-4a64-8f6f-9d1eb157af0a","PUBLISHED","Taman Karang Taruna GP2B","Taman Karang Taruna GP2B adalah surga bagi pecinta bunga dan alam. Nikmati keindahan bunga dan taman buatan dengan banyak spot foto.
+
+Fasilitas: 
+
+Area parkir
+Spot Foto
+
+Aktivitas: 
+
+Piknik, berfoto, menikmati keindahan bunga
+
+Jam operasional: 
+
+Biasanya buka setiap hari, 24 jam.","78c80a91-ae92-4127-89e6-d56c1c1c470d","[""bc47177e-f264-4d67-ac6c-44020fa06567"", ""d0310d04-8a07-4a53-975e-6e19d8839550"", ""e337501c-4837-4d91-a4a1-c959b7b162f0"", ""7c0628ad-fdf2-4142-a587-c682d6a9db42"", ""de897631-1ca5-41fa-bda7-45916e1a5519""]","bc47177e-f264-4d67-ac6c-44020fa06567","de897631-1ca5-41fa-bda7-45916e1a5519","-4.795992560295684","105.3728877864077","693F+H6F, Varia Agung, Seputih Mataram, Central Lampung Regency, Lampung 34164","[{""closed"": false, ""dayIndex"": 0, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 1, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 2, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 3, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 4, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 5, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 6, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}]",NULL,"-","0","5","9","0","0","0","2024-10-04 13:45:45.609","2025-08-10 09:14:44.780"
+"e144eb6c-23ff-4eb5-86ad-895f65d64965","2cfd292d-9c04-4a64-8f6f-9d1eb157af0a","PUBLISHED","Taman Karang Taruna GP2B","Taman Karang Taruna GP2B adalah surga bagi pecinta bunga dan alam. Nikmati keindahan bunga dan taman buatan dengan banyak spot foto.
+
+Fasilitas: 
+
+Area parkir
+Spot Foto
+
+Aktivitas: 
+
+Piknik, berfoto, menikmati keindahan bunga
+
+Jam operasional: 
+
+Biasanya buka setiap hari, 24 jam.","78c80a91-ae92-4127-89e6-d56c1c1c470d","[""bc47177e-f264-4d67-ac6c-44020fa06567"", ""d0310d04-8a07-4a53-975e-6e19d8839550"", ""e337501c-4837-4d91-a4a1-c959b7b162f0"", ""7c0628ad-fdf2-4142-a587-c682d6a9db42"", ""0ca7207e-3d06-4c73-9c19-5bc16547f17d""]","bc47177e-f264-4d67-ac6c-44020fa06567","0ca7207e-3d06-4c73-9c19-5bc16547f17d","-4.795471499768151","105.372885891927","693F+H6F, Varia Agung, Seputih Mataram, Central Lampung Regency, Lampung 34164","[{""closed"": false, ""dayIndex"": 0, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 1, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 2, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 3, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 4, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 5, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}, {""closed"": false, ""dayIndex"": 6, ""closingHours"": ""16:00"", ""openingHours"": ""08:00"", ""fullOpeningHours"": false}]",NULL,"-","0","5","0","0","0","0","2024-10-04 18:58:26.119","2025-08-10 03:36:15.565"
